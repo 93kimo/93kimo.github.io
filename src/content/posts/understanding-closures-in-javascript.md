@@ -8,7 +8,7 @@ tags: ['javascript']
 
 ![javascript code](https://upload.wikimedia.org/wikipedia/commons/e/ef/Programming_code.jpg)
 
-Closures are a fundamental concept in JavaScript that allow functions to access variables from their outer scope. Here's an example:
+Closures are a fundamental  concept in JavaScript that allow functions to access variables from their outer scope. Here's an example:
 
 ```javascript
 function outerFunction(outerVariable) {
