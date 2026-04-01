@@ -2,7 +2,7 @@
 avatarImage:
   src: './avatar.png'
   alt: 'My avatar'
-githubCalendar: 'stelcodes'
+githubCalendar: '93kimo'
 ---
 
 Welcome to my site
