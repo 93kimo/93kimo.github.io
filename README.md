@@ -19,7 +19,6 @@ Check out the [Showing Off Blog Features](https://multiterm.stelclementine.com/p
 - **Amazing Theme Selection**: Personalize your blog's appearance with your favorite editor color scheme. Pick your favorite [Shiki themes](https://expressive-code.com/guides/themes/#available-themes) bundled with Expressive Code.
 - **Dark/Light/Auto Theme Mode**: Choose any two Shiki themes and use the standard light/dark/auto model for automatically adapting to your reader's theme preferences with button in the site header.
 - **Multiple Theme Mode**: Choose three (or all 59!) Shiki themes and allow your reader to choose their favorite from a dialog menu opened from a button in the header. Every element seamlessly changes color interactively using the magic of CSS variables.
-- **GitHub Comment Section**: Allow readers to respond, discuss, and react with a comment section powered by GitHub and [Giscus](https://giscus.app). Painstakingly themed to match your site perfectly.
 - **GitHub Activity Widget**: Optionally include a statically generated GitHub activity calendar on the homepage that (of course) matches the active color scheme perfectly.
 - **Markdown Extensions**: Admonitions, auto-generated TOC that sticks to the side on large screens, emoji shortcodes, KaTeX math, MDX, and reading time estimates. See the example site's [Showing Off Blog Features](https://multiterm.stelclementine.com/posts/showing-off-blog-features) post.
 - **RSS Feed and Sitemap**: Built-in support for RSS feeds and sitemap with no extra configuration.

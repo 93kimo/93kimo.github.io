@@ -118,38 +118,6 @@ const unresolvedStyles: TextmateStyles = {
   important: ['terminal.ansiMagenta', 'terminal.ansiBrightMagenta'],
   caution: ['terminal.ansiYellow', 'terminal.ansiBrightYellow'],
   warning: ['terminal.ansiRed', 'terminal.ansiBrightRed'],
-  // For Giscus syntax highlighting only
-  comment: ['comment', 'punctuation.definition.comment', 'foreground'],
-  constant: ['constant.language.boolean', 'constant.language', 'foreground'],
-  entity: ['entity.name.function', 'support.function', 'function', 'foreground'],
-  tag: [
-    'entity.name.tag',
-    'punctuation.definition.tag',
-    'punctuation.definition.tag.html',
-    'meta.tag',
-    'foreground',
-  ],
-  keyword: [
-    'keyword',
-    'punctuation.definition.keyword',
-    'keyword.operator',
-    'foreground',
-  ],
-  string: ['string', 'string.quoted', 'string.value', 'string variable', 'foreground'],
-  variable: [
-    'variable',
-    'variable.language',
-    'variable.other',
-    'support.variable',
-    'foreground',
-  ],
-  regexp: [
-    'string.regexp',
-    'string.regexp.source',
-    'constant.other.character-class.regexp',
-    'string',
-    'foreground',
-  ],
   // Terminal colors for user customization only, not used by default
   blue: ['terminal.ansiBlue', 'terminal.ansiBrightBlue'],
   green: ['terminal.ansiGreen', 'terminal.ansiBrightGreen'],
