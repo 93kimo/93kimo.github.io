@@ -41,7 +41,7 @@ overlay.querySelector("[data-role='apply-score']").addEventListener("click", () 
 And that's it! The leaderboard immediately updated with the set value, and YappyBird was successfully defeated.
 ![The leaderboard](./IMG_6094.jpg 'Success!')
 ## The Aftermath
-![Rumbled](./listen.PNG 'They were on to me very quickly')
+![Rumbled](./listen.png 'They were on to me very quickly')
 Unfortunately, shortly after the score was posted and people began noticing, the YipYap developers logged in and immediately caught me. The score stayed up for less than an hour. Hey, at least I didn't get banned!
 
 As far as I know, they still haven't patched the bug, so I will not be sharing the source code for now. If that changes, you'll find it [here](https://github.com/93kimo/Yappybot/).
