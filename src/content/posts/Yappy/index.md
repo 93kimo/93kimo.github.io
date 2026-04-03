@@ -22,7 +22,10 @@ However, while inspecting the YappyBird runtime, I noticed that the variable con
 
 As a result, I simply reused the runtime hook from earlier and added my own extra component to the UI.
 
+![The leaderboard](./interface.png "The UI of the runtime hook, it's even YipYap themed because it draws from YipYap's UI components")
+
 The code below also contains some leftover attempts to change the game speed — part of an experiment that never went anywhere. This code is also edited to remove API-specific values, attempting to run this will not work, and that's intentional.
+
 
 ```js
 overlay.querySelector("[data-role='apply-score']").addEventListener("click", () => {
