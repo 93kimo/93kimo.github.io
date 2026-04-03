@@ -4,4 +4,4 @@ avatarImage:
   alt: 'My avatar'
 ---
 
-Thanks for reading my blog post! Feel free to check out my other posts or contact me via the social links in the footer.
+I am a UL ECE student who has a great interest in Cybersecurity and RF. I break lots of things, it's the best way to learn.
