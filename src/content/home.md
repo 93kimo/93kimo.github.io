@@ -5,4 +5,4 @@ avatarImage:
 githubCalendar: '93kimo'
 ---
 
-Welcome to my site
+Welcome, You'll find my projects as well as anything else I'm up to.
