@@ -47,7 +47,7 @@ And that's it! The leaderboard immediately updated with the set value, and Yappy
 ![Rumbled](./listen.png 'They were on to me very quickly')
 Unfortunately, shortly after the score was posted and people began noticing, the YipYap developers logged in and immediately caught me. The score stayed up for less than an hour. Hey, at least I didn't get banned!
 
-As far as I know, they still haven't patched the bug, so I will not be sharing the source code for now. If that changes, you'll find it [here](https://github.com/93kimo/Yappybot/).
+As far as I know, they still haven't patched the bug, so I will not be sharing the source code. Probably would have copyright issues anyway, so it's not going public.
 ## Conclusion
 This was a very fun way to waste time over the holiday break, and I actually learned a lot from the experience. If the YipYap devs read this — no hard feelings. The game is well put together, and people like me are hardly a reasonable expectation to program against. If you'd like to see the full code, just get in touch through my account on YipYap.
 
